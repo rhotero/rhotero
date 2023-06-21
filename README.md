@@ -1,4 +1,6 @@
-### Hi there 👋
+## Olá galera 👋
+
+##### Meu nome é Rodrigo Hotero e esse foi a minha primeira experiência com programação. Foi bem legal.
 
 <!--
 **rhotero/rhotero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
